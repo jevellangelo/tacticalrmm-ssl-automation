@@ -43,7 +43,7 @@ tacticalrmm-ssl-automation/
 ### Option A — Guided install script (recommended)
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/tacticalrmm-ssl-automation.git
+git clone https://github.com/jevellangelo/tacticalrmm-ssl-automation.git
 cd tacticalrmm-ssl-automation
 sudo bash scripts/install.sh
 ```
